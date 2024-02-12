@@ -38,7 +38,7 @@
                     number: phone,
                 };
 
-                fetch('http://localhost:3000/requests/add', {
+                fetch('https://ef24-153-19-167-152.ngrok-free.app/requests/add', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
