@@ -38,7 +38,7 @@
                     number: phone,
                 };
 
-                fetch('https://ef24-153-19-167-152.ngrok-free.app/requests/add', {
+                fetch('https://ready-hagfish-enough.ngrok-free.app/requests/add', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
