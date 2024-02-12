@@ -52,5 +52,21 @@
     margin-bottom: 10%;
     font-size: 25px;
 }
-
+.package-of-service{
+  color: #000;
+  font-family: Kadwa;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 105px */
+  letter-spacing: 21.7px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-bottom: 0px; */
+  /* background-color: blue; */
+  width: 100%;
+        font-family: Kadwa;
+}
 </style>
